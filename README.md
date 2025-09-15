@@ -83,7 +83,7 @@ Avant de commencer, assurez-vous d’avoir installé :
 
 1. **Cloner le projet :**
 ```bash
-git clone https://github.com/hilaire-projet/ansible-scripts.git
+git clone https://github.com/hilaire-projet/ansible-cyberlab.git
 cd ansible-scripts
 
 
