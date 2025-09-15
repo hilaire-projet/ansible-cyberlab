@@ -39,7 +39,7 @@ Le projet suit les bonnes pratiques de gestion de version via **Git** pour assur
 
 ## Architecture du Projet
 
-ansible-scripts/
+ansible-cyberlab/
 │
 ├── ansible/
 │ ├── inventory/
